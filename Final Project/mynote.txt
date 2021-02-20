@@ -1,0 +1,11 @@
+Soal B
+- ambil data csv dan simpan kedalam variable(DONE)
+- memanggil fungsi describe pada data(DONE)
+- memanggil fungsi dtype pada data (DONE)
+- menghitung berapa banyak data yang memiliki nilai minimum pada numerical value
+- menghitung berapa banyak data yang memiliki nilai maximum pada numerical value
+- menghilangkan colomn yang memiliki nilai NULL lebih dari 50% (NOTE : ['company'])
+- mengisi data agent dengan nilai rata - rata (DONE)
+- mengisi data ['country'] dan ['children'] dengan data yang sering di panggil pada colomn tersebut
+- mengubah category ['lead_time'] menjadi (Short, Medium,Long)
+- memfilter data ['reservation_status_date'] in >2017
