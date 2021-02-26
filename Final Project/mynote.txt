@@ -4,8 +4,9 @@ Soal B
 (DONE) - memanggil fungsi dtype pada data 
 (DONE) - menghitung berapa banyak data yang memiliki nilai minimum pada numerical value
 (DONE) - menghitung berapa banyak data yang memiliki nilai maximum pada numerical value
-(DONE)- menghilangkan colomn yang memiliki nilai NULL lebih dari 50% (NOTE : ['company'])
+(DONE) - menghilangkan colomn yang memiliki nilai NULL lebih dari 50% (NOTE : ['company'])
 (DONE) - mengisi data agent dengan nilai rata - rata 
-(DONE)- mengisi data ['country'] dan ['children'] dengan data yang sering di panggil pada colomn tersebut
+(DONE) - mengisi data ['country'] dan ['children'] dengan data yang sering di panggil pada colomn tersebut
 (DONE) - mengubah category ['lead_time'] menjadi (Short, Medium,Long) 
-(PENDING, NOTE : data['reservation_status_date'] menjadi NaT)- memfilter data ['reservation_status_date'] in >2017
+(DONE) - memfilter data ['reservation_status_date'] in >2017
+-visualisasi dengan data yang sudah dibersihkan
