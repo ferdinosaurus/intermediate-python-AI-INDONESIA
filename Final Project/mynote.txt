@@ -9,4 +9,5 @@ Soal B
 (DONE) - mengisi data ['country'] dan ['children'] dengan data yang sering di panggil pada colomn tersebut
 (DONE) - mengubah category ['lead_time'] menjadi (Short, Medium,Long) 
 (DONE) - memfilter data ['reservation_status_date'] in >2017
--visualisasi dengan data yang sudah dibersihkan
+(DONE) - visualisasi['arrival_date_month'] untuk mengetahui bulan apa yang paling sering di kunjungi
+- visualisasi dengan data yang sudah dibersihkan (NOTE : buat lebih banyak lagi)
